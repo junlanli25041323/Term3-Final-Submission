@@ -1,0 +1,7 @@
+This platform aims to support respectful discussion and fair participation from users of diverse backgrounds, accents, and identities. Our moderation policy aims to reduce harmful content while protecting freedom of expression and accessible access. Users must not post hate speech, harassment, threats, or discriminatory language based on race, gender, disability, nationality, religion, sexual orientation, or accent. Users must not spread false or misleading information, especially regarding political or public safety matters.
+
+This platform employs a combination of automated and human moderation tools. Automated systems help detect potentially harmful language, spam, and abusive behavior. Human moderators review flagged content and provide reasons for post removal. Users are thus clearly informed and can modify or appeal their posts. This aims to increase transparency and accountability in the moderation process.
+
+We also recognize that the moderation system may experience misunderstandings due to different accents, dialects, or communication styles. Therefore, all reported content undergoes careful review before permanent action is taken. The platform aims to avoid inequality against non-standard languages ​​and encourage inclusive communication.
+
+Repeated offenders may receive warnings, temporary restrictions, or account bans, depending on the severity of the violation. The goal of this policy is not only to punish harmful behavior, but also to create a safer and more inclusive digital environment for all users.
