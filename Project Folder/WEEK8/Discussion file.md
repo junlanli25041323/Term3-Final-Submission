@@ -1,0 +1,6 @@
+
+Global platforms like WeChat and Meta face diverse local challenges. One challenge is the varying laws, cultures, and expectations for online communication across different countries. For example, WeChat is designed with Chinese users at its core, integrating chat, payment, and various other public services into a single platform. Meta, on the other hand, focuses more on social networking and advertising. Therefore, each platform must adapt to local regulations and user needs.
+
+Data flows are restricted for several reasons. A significant reason is privacy protection. Governments want to ensure that citizens' personal information is protected under local laws. Another reason is national security, as sensitive data could be accessed by foreign companies or governments. Some countries also employ data localization policies, restricting data to their own borders.
+
+I envision my platform as a smaller, more community-focused system within the global platform ecosystem. It will not collect massive amounts of user data but will focus on accessibility and fairness. Since my project investigates errors in YouTube's automatic captioning for English speakers with Mandarin accents, the platform aims to support linguistic diversity and improve communication for users often overlooked by large tech companies.
