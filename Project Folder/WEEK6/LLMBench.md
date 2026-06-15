@@ -1,7 +1,0 @@
-Tools like LLMBench make it easier for ordinary users to understand the underlying mechanisms of artificial intelligence (AI) systems, thereby improving their AI literacy. The lecture defined AI literacy as understanding what AI is, what it can do, how it works, and how to use it.
-
-LMBench allows users to directly compare different language models and explore the probabilities behind the generated words and sentences. Users can observe that AI produces based on statistical probabilities and data patterns.
-
-AI responses are not neutral or completely objective. Features such as "probability," "difference," "structure," and "tone" can introduce biases. Different models may generate different answers based on their training data and design. This difference creates bias. This encourages critical thinking and helps users question the reliability and fairness of AI-generated content.
-
-LMBench also supports explainable AI by demonstrating parts of the decision-making process. This is crucial because explainable AI can help people make more informed decisions and better understand automated systems. Therefore, LLMBench can help users be more informed, critical, and confident when using AI technologies, thus bridging the widening AI literacy gap.
