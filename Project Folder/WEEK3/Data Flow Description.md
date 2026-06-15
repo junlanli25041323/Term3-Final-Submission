@@ -1,0 +1,3 @@
+## Data Flow Description
+
+The system collects data through the browser interface. This data includes user interactions, such as scrolling pages, clicking posts, and viewing content on the screen. The system can also detect images, videos, or audio appearing during browsing. The collected data is initially stored temporarily in local memory. At this stage, the data is not permanently stored but only used for immediate processing. The system then processes the data and identifies key information. After processing, the structured data is securely transmitted to the backend server. During transmission, encryption technology is used to protect the data from interception.
